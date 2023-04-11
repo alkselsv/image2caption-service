@@ -8,6 +8,9 @@
 ### Установка зависимостей
 `pip install -r requirements.txt`
 
+### Загрузка модели
+`python download_model.py`
+
 ### Запуск приложения
 `python app.py`
 
